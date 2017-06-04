@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\owncloud\documents\учебные документы\visual studio 2015\projects\server\server\main.cpp(23): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\owncloud\documents\учебные документы\visual studio 2015\projects\server\server\main.cpp(61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\owncloud\documents\учебные документы\visual studio 2015\projects\server\server\main.cpp(81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\owncloud\documents\учебные документы\visual studio 2015\projects\server\server\main.cpp(104): warning C4312: приведение типов: преобразование из "int" в "PVOID" большего размера
+  server.vcxproj -> D:\ownCloud\Documents\Учебные документы\visual studio 2015\Projects\server\x64\Debug\server.exe
+  server.vcxproj -> D:\ownCloud\Documents\Учебные документы\visual studio 2015\Projects\server\x64\Debug\server.pdb (Full PDB)

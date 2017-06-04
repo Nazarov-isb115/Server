@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.cpp(35): warning C4101: Target: неиспользованная локальная переменная
+main.cpp(139): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\arcane\documents\visual studio 2015\projects\dizel\xyak\server-master\server\main.cpp(44): warning C4700: использована неинициализированная локальная переменная "b"
+  server.vcxproj -> C:\Users\Arcane\Documents\Visual Studio 2015\Projects\dizel\Xyak\server-master\Debug\server.exe
+  server.vcxproj -> C:\Users\Arcane\Documents\Visual Studio 2015\Projects\dizel\Xyak\server-master\Debug\server.pdb (Full PDB)
